@@ -6,7 +6,7 @@ I’ve looked at multiple resources, but these two were particularly useful:
   - https://medium.com/@hirotoschwert/an-unofficial-colab-walkthrough-of-vision-transformer-8bcd592ba26a
 
 <p align="center">
-  <img src="seinfeld-george.gif" />
+  <img src="myimage.gif" />
 </p>
 
 For any questions about this notebook, please email me on __[mashaan.awad@outlook.com](mailto:mashaan.awad@outlook.com)__
