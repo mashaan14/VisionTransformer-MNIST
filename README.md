@@ -1,6 +1,6 @@
 # VisionTransformer-MNIST
 
-## An attention map for a test image ([code](https://github.com/mashaan14/manim/blob/main/manim_numpyBroadcasting.ipynb))
+## An attention map for a test image ([code](https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST.ipynb))
 This notebook is designed to plot the attention maps of a vision transformer trained on MNIST digits. Looking at the attached gif, the neural net knows where to “pay attention”.
 
 I’ve looked at multiple resources, but these two were particularly useful:
@@ -11,7 +11,7 @@ I’ve looked at multiple resources, but these two were particularly useful:
   <img src="myimage.gif" />
 </p>
 
-## An attention map for query and test images ([code](https://github.com/mashaan14/manim/blob/main/manim_numpyBroadcasting.ipynb))
+## An attention map for query and test images ([code](https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST_query_key.ipynb))
 Given query and key images, the code here will plot an attention map. I used MNIST digits dataset.
 
 I borrowed the transformer code from this link:
@@ -21,4 +21,3 @@ I borrowed the transformer code from this link:
   <img src="myimage.gif" />
 </p>
 
-For any questions about this notebook, please email me on __[mashaan.awad@outlook.com](mailto:mashaan.awad@outlook.com)__
