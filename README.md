@@ -18,6 +18,6 @@ I borrowed the transformer code from this link:
   - https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/11-vision-transformer.html
 
 <p align="center">
-  <img src="myimage.gif" />
+  <img src="myimage1.gif" />
 </p>
 
