@@ -6,7 +6,6 @@ This notebook is designed to plot the attention maps of a vision transformer tra
 I’ve looked at multiple resources, but these two were particularly useful:
   - [TUTORIAL 11: VISION TRANSFORMERS](https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/11-vision-transformer.html)
   - [An unofficial colab walkthrough of Vision Transformer](https://medium.com/@hirotoschwert/an-unofficial-colab-walkthrough-of-vision-transformer-8bcd592ba26a)
-  - 
 
 <p align="center">
   <img src="myimage.gif" />
