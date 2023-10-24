@@ -11,6 +11,8 @@ I’ve looked at multiple resources, but these two were particularly useful:
   <img src="myimage.gif" />
 </p>
 
+---
+
 ## An attention map for query and test images ([code](https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST_query_key.ipynb)) ([video](https://youtube.com/shorts/377b_Z_PjzE?feature=shared))
 Given query and key images, the code here will plot an attention map. I used MNIST digits dataset.
 
