@@ -1,5 +1,9 @@
 # VisionTransformer-MNIST
 
+## Walkthrough
+[<img height=400 src="imgs/thumbnails.png" />]()
+
+
 ## An attention map for a test image ([code](https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST.ipynb)) ([video](https://youtu.be/k1XSbJOq824?feature=shared))
 This notebook is designed to plot the attention maps of a vision transformer trained on MNIST digits. Looking at the attached gif, the neural net knows where to “pay attention”.
 
