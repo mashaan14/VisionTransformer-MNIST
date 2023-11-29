@@ -1,7 +1,7 @@
 # VisionTransformer-MNIST
 
 ## Walkthrough
-[<img src="thumbnails.png" />]()
+[<img src="thumbnails.png" />](https://youtu.be/y1ZmMcMYjkY?feature=shared)
 
 
 ## An attention map for a test image ([code](https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST.ipynb))
