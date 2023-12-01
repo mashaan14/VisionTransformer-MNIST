@@ -17,7 +17,7 @@ I’ve looked at multiple resources, but these two were particularly useful:
 
 ---
 
-## An attention map for query and test images ([code](https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST_query_key.ipynb))
+## An attention map for query and key images ([code](https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST_query_key.ipynb))
 Given query and key images, the code here will plot an attention map. I used MNIST digits dataset.
 
 I borrowed the transformer code from this link:
