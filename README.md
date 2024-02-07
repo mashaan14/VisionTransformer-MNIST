@@ -1,4 +1,4 @@
-# VisionTransformer-MNIST
+# PyTorch Code to Create Attention Maps from a VisionTransformer using MNIST Dataset
 
 ## Code walkthrough
 [<img src="thumbnail.png" />](https://youtu.be/y1ZmMcMYjkY?feature=shared)
