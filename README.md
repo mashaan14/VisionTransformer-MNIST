@@ -1,4 +1,4 @@
-# VisionTransformer (ViT) Attention Maps using MNIST Dataset
+# VisionTransformer (ViT) Attention Maps using MNIST
 
 ## Code walkthrough
 [<img src="thumbnail.png" />](https://youtu.be/y1ZmMcMYjkY?feature=shared)
