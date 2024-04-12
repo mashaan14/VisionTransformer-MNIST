@@ -1,6 +1,6 @@
 # VisionTransformer (ViT) Attention Maps using MNIST
 
-## Code walkthrough
+## Code walkthrough ([YouTube Video](https://youtu.be/y1ZmMcMYjkY?feature=shared))
 [<img src="thumbnail.png" />](https://youtu.be/y1ZmMcMYjkY?feature=shared)
 
 
