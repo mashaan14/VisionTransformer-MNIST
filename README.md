@@ -1,4 +1,4 @@
-# Check out my ([YouTube Video](https://youtu.be/y1ZmMcMYjkY?feature=shared)) on ViT in JAX
+# Check out my [YouTube Video](https://youtu.be/y1ZmMcMYjkY?feature=shared) on ViT in JAX
 [<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_03_28_jax_ViT.png" />](https://youtu.be/LDwA31hARrA)
 
 ---
