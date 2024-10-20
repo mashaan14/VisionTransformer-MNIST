@@ -3,7 +3,7 @@
 
 ---
 
-[<img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/pictures/2018/RayTracing/ray-tracing-image-1.jpg"/>]
+<img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/pictures/2018/RayTracing/ray-tracing-image-1.jpg"/>
 
 # VisionTransformer (ViT) Attention Maps using MNIST
 
