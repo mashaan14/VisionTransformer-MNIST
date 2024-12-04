@@ -1,8 +1,3 @@
-# Check out my [YouTube Video](https://youtu.be/y1ZmMcMYjkY?feature=shared) on ViT in JAX
-[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_03_28_jax_ViT.png" />](https://youtu.be/LDwA31hARrA)
-
----
-
 # VisionTransformer (ViT) Attention Maps using MNIST
 
 ## Code walkthrough ([YouTube Video](https://youtu.be/y1ZmMcMYjkY?feature=shared))
@@ -20,6 +15,20 @@
 <p align="center">
   <img src="myimage1.gif" />
 </p>
+
+---
+
+# Videos you might be interested in
+
+## Vision Transformer (ViT) in JAX
+[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_03_28_jax_ViT.png" />](https://youtu.be/LDwA31hARrA)
+
+## Swin Transformer Code
+[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_08_19_Swin_Transformer.png" />](https://youtu.be/LspWysWparE)
+
+## Swin Transformer Attention
+[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_09_16_Swin_Transformer_Attention.png" />](https://youtu.be/mtCTIGgzfbc)
+
 
 ## References
 ```bibtex
