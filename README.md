@@ -3,7 +3,7 @@
 ## Code walkthrough ([YouTube Video](https://youtu.be/y1ZmMcMYjkY?feature=shared))
 [<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2023-11-29-VisionTransformer-MNIST.png" />](https://youtu.be/y1ZmMcMYjkY?feature=shared)
 
-## An attention map for a test image ([code](https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST.ipynb))
+## An attention map for a test image ([code](https://mashaan14.github.io/YouTube-channel/vision_transformers/2023_11_29_VisionTransformer_MNIST))
 
 <p align="center">
   <img src="myimage.gif" />
