@@ -10,7 +10,7 @@
 </p>
 
 
-## An attention map for query and key images ([code](https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST_query_key.ipynb))
+## An attention map for query and key images ([code](https://mashaan14.github.io/YouTube-channel/vision_transformers/2023_08_23_VisionTransformer_MNIST_query_key))
 
 <p align="center">
   <img src="myimage1.gif" />
