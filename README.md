@@ -1,7 +1,7 @@
 # VisionTransformer (ViT) Attention Maps using MNIST
 
 ## Code walkthrough ([YouTube Video](https://youtu.be/y1ZmMcMYjkY?feature=shared))
-[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2023-11-29-VisionTransformer-MNIST.png" />](https://youtu.be/y1ZmMcMYjkY?feature=shared)
+[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2023-11-29-VisionTransformer-MNIST.avif" />](https://youtu.be/y1ZmMcMYjkY?feature=shared)
 
 ## An attention map for a test image ([code](https://mashaan14.github.io/YouTube-channel/vision_transformers/2023_11_29_VisionTransformer_MNIST))
 
@@ -21,13 +21,13 @@
 # Videos you might be interested in
 
 ## Vision Transformer (ViT) in JAX
-[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_03_28_jax_ViT.png" />](https://youtu.be/LDwA31hARrA)
+[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_03_28_jax_ViT.avif" />](https://youtu.be/LDwA31hARrA)
 
 ## Swin Transformer Code
-[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_08_19_Swin_Transformer.png" />](https://youtu.be/LspWysWparE)
+[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_08_19_Swin_Transformer.avif" />](https://youtu.be/LspWysWparE)
 
 ## Swin Transformer Attention
-[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_09_16_Swin_Transformer_Attention.png" />](https://youtu.be/mtCTIGgzfbc)
+[<img src="https://github.com/mashaan14/YouTube-channel/blob/main/imgs/2024_09_16_Swin_Transformer_Attention.avif" />](https://youtu.be/mtCTIGgzfbc)
 
 
 ## References
